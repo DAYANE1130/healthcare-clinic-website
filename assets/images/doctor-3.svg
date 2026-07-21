@@ -1,0 +1,22 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+
+
+<circle cx="150" cy="150" r="150" fill="#EFF6FF"></circle>
+
+
+<circle cx="150" cy="110" r="55" fill="#F3C6A5"></circle>
+
+
+<path d="M90 95C120 35 200 45 210 100" fill="#5B4636"></path>
+
+
+<rect x="90" y="170" width="120" height="90" rx="20" fill="white"></rect>
+
+
+<path d="M150 180V240" stroke="#2B8A9B" stroke-width="8"></path>
+
+
+<circle cx="150" cy="210" r="15" fill="#7AC943"></circle>
+
+
+</svg>
