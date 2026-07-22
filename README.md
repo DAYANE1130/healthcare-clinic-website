@@ -10,7 +10,8 @@ O projeto simula o website de uma clínica multidisciplinar de saúde, apresenta
 
 ## 🌐 Demonstração, acesse através do link abaixo:
 
-🔗 **GitHub Pages:**  
+🔗 **GitHub Pages:**
+
 https://dayane1130.github.io/healthcare-clinic-website/
 
 ---
