@@ -19,9 +19,8 @@ O projeto simula o website de uma clínica multidisciplinar de saúde, apresenta
 
 > Adicione uma captura de tela do projeto.
 
-```text
 assets/images/demo.gif
-```
+
 
 ---
 
