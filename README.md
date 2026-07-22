@@ -4,7 +4,7 @@ Site institucional responsivo desenvolvido como projeto de portfólio para demon
 
 O projeto simula o website de uma clínica multidisciplinar de saúde, apresentando uma interface moderna, acessível e focada na experiência do usuário.
 
-> **Aviso:** Este projeto é totalmente fictício e foi criado exclusivamente para fins de estudo e demonstração de portfólio.
+> **Aviso:** Este projeto é totalmente fictício e foi criado exclusivamente para fins de  demonstração.
 
 ---
 
@@ -20,7 +20,7 @@ O projeto simula o website de uma clínica multidisciplinar de saúde, apresenta
 > Adicione uma captura de tela do projeto.
 
 ```text
-assets/images/preview.png
+assets/images/demo.gif
 ```
 
 ---
@@ -185,4 +185,4 @@ Desenvolvedora Web com foco em aplicações modernas, interfaces responsivas, in
 
 # 📄 Licença
 
-Este projeto foi desenvolvido exclusivamente para fins educacionais e composição de portfólio.
+Este projeto foi desenvolvido exclusivamente para fins de composição de portfólio.
