@@ -123,4 +123,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
     });
 
+    const whatsappButton = document.getElementById("whatsapp-button");
+
+if (whatsappButton) {
+
+    whatsappButton.addEventListener("click", () => {
+
+        alert(
+            "Projeto fictício, é apenas uma demonstração.\n\nO WhatsApp não está disponível."
+        );
+
+    });
+
+}
+
 });
